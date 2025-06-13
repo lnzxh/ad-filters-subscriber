@@ -1,5 +1,5 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2025-06-13 09:55:35
+! Last Modified: 2025-06-13 16:30:39
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
