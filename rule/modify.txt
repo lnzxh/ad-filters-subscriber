@@ -1,5 +1,5 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2026-09-14 22:51:54
+! Last Modified: 2026-09-15 04:12:27
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
